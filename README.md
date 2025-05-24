@@ -1,5 +1,5 @@
 
-## Hi! I'm a beginner Developer and physics enthusiast 👾
+## Hi! I'm a beginner developer and physics enthusiast 👾
 
 ### 📱 Contact
 
