@@ -1,6 +1,5 @@
- 
- ## Hello! My name is Raphael Martins 👽
- ## I'm a Beginner Developer 👾
+
+## Hi! I'm a beginner Developer and physics enthusiast 👾
 
 ### 📱 Contact
 
