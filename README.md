@@ -22,8 +22,11 @@ Hoje, no terceiro ano já desenvolvendo meu projeto de TCC (cujo repositório es
 
 Um dia, quero construir sistemas que impactem pessoas de verdade, e quem sabe construir meu próprio negócio.
 
-<p align="center">
-  <h3>
+<table>
+  <tr>
+    <td>
+
+  <h3 align="center">
     $$\large Skills$$
   </h3>
   
@@ -34,6 +37,22 @@ Um dia, quero construir sistemas que impactem pessoas de verdade, e quem sabe co
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  <br>
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-</p>
+  
+
+</td> 
+    </td>
+    <td>
+      <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/athena272/athena272/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/athena272/athena272/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+    </td>
+  </tr>
+</table>
