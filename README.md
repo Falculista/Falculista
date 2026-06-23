@@ -18,7 +18,7 @@
 
 Desde a infância fui movido pela minha curiosidade pelo mundo. Passado alguns anos, decidi me aprofundar mais em um dos temas dos quais possuo mais interesse: computação. Assim, entrei no curso de Desenvolvimento de Sistemas na ETEC. Lá realizei diversos projetos e estudos, além de conhecer pessoas que me ensinaram lições mais valiosas do que qualquer curso poderia me ensinar.
 
-Hoje, no terceiro ano já desenvolvendo meu projeto de TCC (cujo repositório está anexado em meu perfil), meu foco é back-end e desenvolvimento web, não me limitando a uma única stack.
+Hoje, no terceiro ano já desenvolvendo meu projeto de TCC (cujo repositório está anexado em meu perfil), meu foco me tornar um desenvolvedor back-end, não me limitando a uma única stack.
 
 Um dia, quero construir sistemas que impactem pessoas de verdade, e quem sabe construir meu próprio negócio.
 
